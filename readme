@@ -1,0 +1,17 @@
+Fonctionnalités
+Véhicules Pursueurs : Les véhicules suivent une cible mouvante (la position de la souris) en appliquant des comportements réalistes.
+Gestion des Obstacles : Des obstacles circulaires empêchent les véhicules de se déplacer librement.
+Contrôles Interactifs :
+Ajout de Véhicules : Appuyez sur v pour ajouter un véhicule à une position aléatoire.
+Ajout d Obstacles : Cliquez n importe où sur le canvas pour ajouter un obstacle à cet endroit.
+Modes de Mouvement :
+n : Mode normal où les véhicules poursuivent directement la cible.
+s : Mode suivi où les véhicules suivent un autre véhicule.
+w : Mode errance où les véhicules se déplacent de manière aléatoire sans sortir de l ecran.
+v : Ajouter un vehicule.
+d : pour debeuguer.
+f : ajouter 10 vehicule.
+
+Personnalisation :
+Vitesse Maximale : Ajustable via un slider.
+Accélération Maximale : Ajustable via un autre slider.
